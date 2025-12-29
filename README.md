@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **matislakmal160@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/lakmalasela/cv.git](https://github.com/lakmalasela/cv.git)
-
 - ⚡ Fun fact **Coding, Playing Guitar**
 
 <h3 align="left">Connect with me:</h3>
